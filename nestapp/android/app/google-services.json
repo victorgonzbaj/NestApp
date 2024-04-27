@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "308603792857",
+    "project_id": "victorgonzbaj-nestapp",
+    "storage_bucket": "victorgonzbaj-nestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308603792857:android:2f32acc5287caf8474bdc8",
+        "android_client_info": {
+          "package_name": "com.victorgonzbaj.nestapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAalXf6NYpcG_1M0XZEXFTqdC4zKvpsQ0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
