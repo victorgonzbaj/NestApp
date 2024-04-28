@@ -8,6 +8,6 @@ La Documentation se ira subiendo a la carpeta  [Documentacion](https://github.co
 
 
 ## Planificacion y Progreso
-Para la planificacion de este proyecto estare usare la Plataforma Notion en la cual he creado una [pagina](https://victorgonzbaj.notion.site/NestApp-2ca60eae76fa4382ac954e932b9ec572) solo para este proyecto. Mientras que mi progreso con el codigo se ira reflejando en este repositorio, el progreso de las tareas y objetivos se registrara en Notion. 
+Para la planificacion de este proyecto estare usare la Plataforma Notion en la cual he creado una [pagina](https://www.notion.so/victorgonzbaj/NestApp-5e33b7feb28f4abd88ca035cfbbb2171?pvs=4) solo para este proyecto. Mientras que mi progreso con el codigo se ira reflejando en este repositorio, el progreso de las tareas y objetivos se registrara en Notion. 
 ## Diseño y UI
 he creado un [tablon en pinterest ](https://www.pinterest.es/victormanuelgonzalezbajo/nestapp/) donde ire subiendo ideas o conceptos sobre la interfaz a su vez ire subiendo en la carpeta Diseño diferentes elementos o bocetos de la app.
