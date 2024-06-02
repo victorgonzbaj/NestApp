@@ -10,6 +10,8 @@ void main() {
   FirebaseFirestore.instance.settings = const Settings(
     persistenceEnabled: true,
   );
+
+
 }
 
 class MyApp extends StatelessWidget {
