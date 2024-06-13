@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "308603792857",
+    "firebase_url": "https://victorgonzbaj-nestapp-default-rtdb.europe-west1.firebasedatabase.app",
     "project_id": "victorgonzbaj-nestapp",
     "storage_bucket": "victorgonzbaj-nestapp.appspot.com"
   },
@@ -12,7 +13,12 @@
           "package_name": "com.victorgonzbaj.nestapp"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "308603792857-junar6if49h2ge1v3ipovs6gd621j0jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyAalXf6NYpcG_1M0XZEXFTqdC4zKvpsQ0w"
@@ -20,7 +26,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308603792857-junar6if49h2ge1v3ipovs6gd621j0jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
